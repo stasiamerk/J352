@@ -1,0 +1,42 @@
+body {
+  background-color:#FCDEFA;
+}
+p{color:hotpink;font-family: "Edu AU VIC WA NT Pre", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+font-weight: 300px;
+line-height: 1.1rem;
+text-align: center;}
+
+
+h1 {color:deeppink;
+font-family: "Alex Brush", serif;
+  font-weight: 400;
+  font-style: normal;
+font-size: 100px;
+margin-bottom: -25px;
+text-align: center;} 
+
+
+h3{color: hotpink;font-family: "Edu AU VIC WA NT Pre", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+font-weight: px;
+text-align: center;
+margin-top: -50px}
+
+h2{color: deeppink; font-family: "Alex Brush", serif;
+  font-weight: 400;
+  font-style: normal;
+font-size: 90px;
+text-align: center; 
+margin-top: -25px;}
+
+
+/* this is invisible text*/
+
+a {
+  color: #000000;
+}
