@@ -1,0 +1,46 @@
+/* GLOBAL ARTICLE STYLES */
+
+body { background-color: #FAA3F5;
+
+}
+
+
+h1 { text-align: center;font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #FAF305;
+}
+
+p {font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+color: black;}
+
+
+.Byline {text-align: center;
+color: white}
+
+h2 {text-align: center;
+text-align: center;font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #FAF305;}
+
+h3 {text-align: center;
+text-align: center;
+font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #FAF305;}
+
+.callout { background-color:#FAF305 ;
+
+h4 {
+text-align: center;
+font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #FAF305;}
+
+  
