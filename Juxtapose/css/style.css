@@ -8,6 +8,7 @@ background-color: #BA2828;
   font-weight: <weight>;
   font-style: normal;
   text-align: center;
+  margin-top: 100px;
 
  }
  body {color:white;
@@ -16,7 +17,10 @@ background-color: #BA2828;
   font-weight: <weight>;
   font-style: normal;
   text-align: center;
+  margin-top: -50px;
 
  }
- juxtapose {width: 50%; 
- 	height: 50%}
+ .juxtapose {width: 700px; 
+ 	height: 700px;
+    margin-bottom: -200px;}
+.timeline {margin-top: 20px}
