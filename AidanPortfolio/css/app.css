@@ -1,0 +1,40 @@
+body{ 
+background-color: #EBFBFF }
+
+h1 { font-family: "Cascadia Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;}
+  h2{ font-family: "Cascadia Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-size: 1rem;
+  font-style: normal;}
+  h3 { font-family: "Cascadia Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;}
+  h4 { font-family: "Cascadia Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;}
+  h5 { font-family: "Cascadia Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;}
+  h6{ font-family: "Cascadia Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;}
+  p{ font-family: "Cascadia Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;}
+  .bio { font-family: "Cascadia Mono", sans-serif;
+  font-size: 1.5rem;
+  font-style: normal;}
+  .link { font-family: "Cascadia Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;}
+  a{text-decoration:underline;}
