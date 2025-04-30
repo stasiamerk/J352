@@ -1,0 +1,74 @@
+.row-one-one{
+	text-align: center;
+}
+
+.row-three-one{
+	text-align: left;
+}
+
+.row-two-two{
+	text-align: center;
+}
+
+.row-two-one{
+	text-align: center;
+	font-size: 30px;
+}
+
+
+.bio{font-family: "Raleway", sans-serif;
+	font-size:1.5rem;}
+
+h4{font-weight: bold;
+	font-family: "Raleway", sans-serif;
+	text-align: center ;
+
+}
+	font-weight: bold;
+	font-family: "Raleway", sans-serif;
+}
+
+h5{
+	font-style: italic;
+	font-weight: bold;
+	font-family: "Raleway", sans-serif;
+}
+
+h6{
+	font-weight: bold;
+	font-family: "Raleway", sans-serif;
+}
+
+p{
+	font-family: "Raleway", sans-serif;
+	font-size: 1rem;
+
+}
+
+h1{
+	font-family: "Raleway", sans-serif;
+}
+
+li{
+	font-family: "Raleway", sans-serif;
+	font-size: 1rem;
+}
+
+ol{
+	font-family: "Raleway", sans-serif;
+}
+
+body{
+	background-color: #FCCCBA;
+}
+
+a{
+	text-decoration: underline;
+}
+
+.raleway-<uniquifier> {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
